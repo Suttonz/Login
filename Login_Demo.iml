@@ -43,5 +43,7 @@
     <orderEntry type="library" name="libs" level="project" />
     <orderEntry type="library" name="Maven: Arquillian JUnit:Release" level="project" />
     <orderEntry type="library" name="Maven: Arquillian JUnit:Latest" level="project" />
+    <orderEntry type="library" name="commons-beanutils-1.8.0" level="project" />
+    <orderEntry type="library" name="libs (2)" level="project" />
   </component>
 </module>

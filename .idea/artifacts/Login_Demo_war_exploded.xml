@@ -8,6 +8,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="libs" />
+          <element id="library" level="project" name="commons-beanutils-1.8.0" />
+          <element id="library" level="project" name="libs (2)" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="Login_Demo/web/Web3" />
